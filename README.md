@@ -7,5 +7,3 @@ This notebook investigates algorithmic fairness using the COMPAS dataset, focusi
 - **Disparate Mistreatment**
 
 It includes methods for detection and mitigation, such as feature exclusion, reweighting, and post-processing with threshold optimization. The notebook provides both metrics and visualizations to evaluate fairness and performance trade-offs.
-
-> Developed as part of an AI ethics project.
