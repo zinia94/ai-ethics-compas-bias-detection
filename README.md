@@ -2,8 +2,6 @@
 
 A Jupyter notebook project analyzing the **COMPAS dataset** to detect and mitigate algorithmic bias in criminal justice risk assessments. The focus is on three key fairness issues: **disparate treatment, disparate impact, and disparate mistreatment**.
 
----
-
 ## Contents
 
 * **Data Preprocessing**: Cleaned COMPAS dataset, defined sensitive attributes.
@@ -19,15 +17,12 @@ A Jupyter notebook project analyzing the **COMPAS dataset** to detect and mitiga
   * Reweighing
   * Threshold optimization
 
----
-
 ## Findings
 
 * Bias was detected across all three dimensions.
 * Mitigation improved fairness but introduced **accuracy trade-offs**.
 * Limitations: binary sensitive attributes only, no cross-validation, fairness handled separately.
 
----
 
 ## Future Work
 
@@ -36,7 +31,6 @@ A Jupyter notebook project analyzing the **COMPAS dataset** to detect and mitiga
 * Hyperparameter tuning and k-fold validation.
 * Systematic fairness vs. accuracy trade-off analysis.
 
----
 
 ## Conclusion
 
